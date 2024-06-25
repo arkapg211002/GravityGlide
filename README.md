@@ -9,5 +9,8 @@
 4. Open Eclipse selecting that `folder` as the workspace
 5. Close the Welcome Screen
 6. Import Project
+![i1](https://github.com/arkapg211002/GravityGlide/blob/main/import1.png)
+![i2](https://github.com/arkapg211002/GravityGlide/blob/main/import2.png)
 7. Go to src > main > MainClass.java
-8.  Right Click > Run As > Java Application
+8. Right Click > Run As > Java Application
+![run](https://github.com/arkapg211002/GravityGlide/blob/main/run.png)
