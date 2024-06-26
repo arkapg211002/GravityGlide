@@ -14,3 +14,13 @@
 7. Go to src > main > MainClass.java
 8. Right Click > Run As > Java Application
 ![run](https://github.com/arkapg211002/GravityGlide/blob/main/run.png)
+
+### Control Keys
+
+`←` Move backward </br>
+`↑` Jump </br>
+`→` Move forward </br>
+`←↑` Jump and move backward </br>
+`↑→` Jump and move forward </br>
+`↓` Attack </br>
+`ENTER` Power Attack
